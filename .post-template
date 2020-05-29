@@ -1,9 +1,0 @@
-$ cat $PROJECT_ROOT/.post-template
----
-layout: post
-title: TITLEHERE
-date: YYYY-MM-DD
-category: CATEGORY
-author: D'Arcy Lussier
-tags: [tag1, tag2]
----
